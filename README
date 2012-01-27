@@ -1,0 +1,7 @@
+Basic description and instructions:
+
+There are 2 folders with the following content
+- whereTest: Contain the selenium tests
+- where: Contain the scenario I was supposed to suppose, working but not perfect
+
+Everything is bassed on assumptions, it was not fully tested but should be almost working with some changes.
